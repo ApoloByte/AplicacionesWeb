@@ -12,7 +12,7 @@
             <p>
                 <input type="text" required>
             </p>
-            <p><input type="text" pattern="\w{3,16}"></p>
+            <p><input type="text" pattern="^(?=(.*[\d]))(?=(.*[\d]))(?=(.*[\W_]))(?=(.*[\w]{20,})).*$"></p>
             <button>Enviar</button>
         </form>
     </section>

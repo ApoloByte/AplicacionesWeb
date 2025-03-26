@@ -1,0 +1,32 @@
+h1{
+    text-transform: uppercase;
+    font-family: monospace;
+    text-align: center;
+    font-weight: 100;
+    font-size: 40px;
+    letter-spacing: 20px;
+    text-decoration: wavy underline plum;
+}
+
+.h1-green{
+    color: green;
+    font-weight: 700;
+}
+h2{
+    color: magenta;
+    text-decoration: underline dashed red;
+}
+
+p{
+    color: white;
+    background-color: black;
+    text-align: right;
+    line-height: 1.5;
+    font-family: Avant Garde, Calibri;
+}
+
+button{
+    color:rgb(205, 92, 92);
+    background-color: indianred;
+    border: 2px #931f1f;
+}
